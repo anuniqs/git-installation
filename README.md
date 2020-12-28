@@ -57,12 +57,12 @@ anup.mondal@DOLAP234 MINGW64 ~
 $ git --version  
 git version 2.29.2.windows.3
 
-**Access onGit CMD :**
+**Access on Git CMD :**
 
 C:\Users\anup.mondal>git --version                                                                                      
 git version 2.29.2.windows.3                                                                                                        
                 
-**Access onPowershell :**
+**Access on Powershell :**
 
 PS C:\Users\anup.mondal> git --version                                                                                   
 git version 2.29.2.windows.3    
