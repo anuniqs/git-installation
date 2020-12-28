@@ -3,9 +3,9 @@
 
 Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
-## Git installation on RHEL8 —
+### Git installation on RHEL8 —
 
-### YUM installation —
+### YUM installation
 
 [root@192 anup]#  yum update
 
@@ -14,7 +14,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 [root@192 anup]#  git --version 
 
 
-### Install Git from Source — 
+### Install Git from Source
 
 [root@192 anup]# yum groupinstall "Development Tools"
 
