@@ -14,7 +14,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 [root@192 anup]#  git --version 
 
 
-### Install Git from Source
+### Source Installation
 
 [root@192 anup]# yum groupinstall "Development Tools"
 
