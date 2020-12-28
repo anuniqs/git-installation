@@ -5,7 +5,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 
 ### Git installation on RHEL8 —
 
-### YUM installation
+**YUM installation**
 
 [root@192 anup]#  yum update
 
@@ -14,7 +14,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 [root@192 anup]#  git --version 
 
 
-### Source Installation
+**Source Installation**
 
 [root@192 anup]# yum groupinstall "Development Tools"
 
@@ -38,7 +38,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 ```git version 2.9.5```
 
 
-## Git installation on Ubuntu —
+### Git installation on Ubuntu —
 
 anup@megatron:~$ sudo apt-get update
 
@@ -47,7 +47,7 @@ anup@megatron:~$ sudo apt-get install git
 anup@megatron:~$ git --version
 
 
-## Git installation on Windows —
+### Git installation on Windows —
 
 Download : https://git-scm.com/
 
