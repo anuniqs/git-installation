@@ -1,4 +1,4 @@
-## Git installation —
+## Git installation on RHEL8 —
 
 ### GYAN —
 
@@ -37,7 +37,45 @@ Git is a distributed version-control system for tracking changes in any set of f
 ```git version 2.9.5```
 
 
+## Git installation on Ubuntu —
+
+anup@megatron:~$ sudo apt-get update
+
+anup@megatron:~$ sudo apt-get install git
+
+anup@megatron:~$ git --version
+
+
+## Git installation on Windows —
+
+Download : https://git-scm.com/
+
+**Access on Git Bash :**
+
+anup.mondal@DOLAP234 MINGW64 ~
+$ git --version
+git version 2.29.2.windows.3
+
+**Access onGit CMD :**
+
+C:\Users\anup.mondal>git --version                                                                                      
+git version 2.29.2.windows.3                                                                                                        
+                
+**Access onPowershell :**
+
+PS C:\Users\anup.mondal> git --version                                                                                   
+git version 2.29.2.windows.3    
+
+
+**Use Git GUI :**
+
+**Use GitHub Desktop :**
+
+https://desktop.github.com/
+
+
 .
   
 **@ By — Anup Kumar Mondal**
+
 
