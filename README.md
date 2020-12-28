@@ -53,7 +53,7 @@ Download : https://git-scm.com/
 **Access on Git Bash :**
 
 anup.mondal@DOLAP234 MINGW64 ~
-$ git --version
+$ git --version  
 git version 2.29.2.windows.3
 
 **Access onGit CMD :**
