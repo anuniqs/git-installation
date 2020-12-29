@@ -51,26 +51,26 @@ anup@megatron:~$ git --version
 
 Download : https://git-scm.com/
 
-**Access on Git Bash :**
+**Access on Git Bash**
 
 anup.mondal@DOLAP234 MINGW64 ~
 $ git --version  
 git version 2.29.2.windows.3
 
-**Access on Git CMD :**
+**Access on Git CMD**
 
 C:\Users\anup.mondal>git --version                                                                                      
 git version 2.29.2.windows.3                                                                                                        
                 
-**Access on Powershell :**
+**Access on Powershell**
 
 PS C:\Users\anup.mondal> git --version                                                                                   
 git version 2.29.2.windows.3    
 
 
-**Use Git GUI :**
+**Use Git GUI**
 
-**Use GitHub Desktop :**
+**Use GitHub Desktop**
 
 https://desktop.github.com/
 
